@@ -21,6 +21,11 @@ body {
   padding: 0;
 }
 
+.flex-outer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .flex-outer li,
 .flex-inner {
   display: flex;
