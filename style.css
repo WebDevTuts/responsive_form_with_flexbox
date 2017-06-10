@@ -19,3 +19,14 @@ body {
 .flex-inner {
   flex: 1 0 220px;
 }
+
+.flex-outer li button {
+  margin-left: auto;
+  padding: 8px 16px;
+  border: none;
+  background: #333;
+  color: #F2F2F2;
+  text-transform: uppercase;
+  letter-spacing: .09em;
+  border-radius: 2px;
+}
