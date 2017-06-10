@@ -5,6 +5,12 @@ body {
   padding: 50px 0;
 }
 
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .flex-outer li,
 .flex-inner {
   display: flex;
