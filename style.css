@@ -11,6 +11,10 @@ body {
   margin: 0 auto;
 }
 
+.container * {
+  box-sizing: border-box;
+}
+
 .flex-outer li,
 .flex-inner {
   display: flex;
