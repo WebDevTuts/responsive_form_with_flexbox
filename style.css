@@ -65,6 +65,12 @@ body {
   margin: 0;
 }
 
+.flex-outer li input:not([type='checkbox']),
+.flex-outer li textarea {
+  padding: 15px;
+  border: none;
+}
+
 .flex-outer li button {
   margin-left: auto;
   padding: 8px 16px;
