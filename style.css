@@ -30,3 +30,11 @@ body {
   letter-spacing: .09em;
   border-radius: 2px;
 }
+
+.flex-inner li {
+  width: 100px;
+}
+
+.flex-inner {
+  justify-content: space-between;
+}
