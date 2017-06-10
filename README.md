@@ -3,3 +3,5 @@
 In this tutorial, we'll learn how to take advantage of flexbox to create a responsive form. What's interesting and exciting is that flexbox allows us to build our form without using any media queries.
 
 [View demo site here.](https://webdevtuts.github.io/responsive_form_with_flexbox/)
+
+![Preview](screenshot.png)
